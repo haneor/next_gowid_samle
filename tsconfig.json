@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "esnext",
+      "es2017"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "strict": false,
+    "locale": "ko",
+    "pretty": true,
+    "watch": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "./src/**/*",
+    "./resource/**/*",
+    "./@types/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

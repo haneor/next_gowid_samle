@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4107eef1-00a1-4928-8d4c-deb9159050c1" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../next_gowid_samle/package.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zG1yf4ofFl9azRFaj1DpVeMgKY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/parkhan-eor/Desktop/sample",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/utils" />
+      <recent name="$PROJECT_DIR$/src/components/Loading" />
+      <recent name="$PROJECT_DIR$/src/service" />
+      <recent name="$PROJECT_DIR$/src/model/constant" />
+      <recent name="$PROJECT_DIR$/src/model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/stores" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4107eef1-00a1-4928-8d4c-deb9159050c1" name="Changes" comment="" />
+      <created>1633759867203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633759867203</updated>
+      <workItem from="1633759869532" duration="7905000" />
+      <workItem from="1638880898842" duration="2806000" />
+      <workItem from="1638884245118" duration="917000" />
+      <workItem from="1643709124873" duration="3000" />
+      <workItem from="1655133790786" duration="3160000" />
+      <workItem from="1655138087502" duration="762000" />
+      <workItem from="1655217865755" duration="3023000" />
+      <workItem from="1655299211088" duration="6059000" />
+      <workItem from="1655390749769" duration="4842000" />
+      <workItem from="1655472290654" duration="5346000" />
+      <workItem from="1655559984738" duration="13260000" />
+      <workItem from="1655651212826" duration="4925000" />
+      <workItem from="1655656666849" duration="43000" />
+      <workItem from="1655735889139" duration="399000" />
+      <workItem from="1655766790532" duration="289000" />
+      <workItem from="1655787096002" duration="33000" />
+      <workItem from="1655807209325" duration="46000" />
+      <workItem from="1655883496066" duration="3427000" />
+      <workItem from="1655941851135" duration="4152000" />
+      <workItem from="1656028921794" duration="5457000" />
+      <workItem from="1668526664861" duration="447000" />
+      <workItem from="1668527241198" duration="169000" />
+      <workItem from="1674183912153" duration="3207000" />
+      <workItem from="1674187502962" duration="1216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

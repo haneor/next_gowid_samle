@@ -1,0 +1,9 @@
+export const HeaderHeight: string = '50px';
+export const FooterHeight: string = '50px';
+export const ContentMaxWidth: string = '640px';
+export const TabHeight: string = '40px';
+export const DrawerWidth: string = '300px';
+export const AuctionSummaryHeight: string = '215px';
+export const ListCounterHeight: string = '50px';
+export const FeedFilterHeight = '55px';
+export const ContentHeaderThreshold = 100;
