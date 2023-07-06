@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4107eef1-00a1-4928-8d4c-deb9159050c1" name="Changes" comment="Changes" />
+    <list default="true" id="4107eef1-00a1-4928-8d4c-deb9159050c1" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +27,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../next_gowid_samle/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/parkhan-eor/Desktop/sample",
+    "last_opened_file_path": "/Users/parkhan-eor/Desktop/example/next_gowid_samle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,6 +100,7 @@
       <workItem from="1668527241198" duration="169000" />
       <workItem from="1674183912153" duration="3207000" />
       <workItem from="1674187502962" duration="1216000" />
+      <workItem from="1688632407158" duration="134000" />
     </task>
     <servers />
   </component>
