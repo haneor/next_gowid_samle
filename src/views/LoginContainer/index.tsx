@@ -9,7 +9,6 @@ import {selLoginInfo, selLoginLoading, selSuccessLogin} from "../../stores/authS
 import {AppDispatch} from "../../stores";
 import CircleLoading from "../../components/Loading/CircleLoading";
 import {useRouter} from "next/router";
-import {SpaceBackground} from "../../components/ThreeFiber/SpaceBackground";
 
 const CustomPaper = styled(Paper)(({ theme }) => ({
   textAlign: 'center',
